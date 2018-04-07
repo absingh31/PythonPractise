@@ -1,0 +1,1 @@
+[print(x[::-1], end = ' ') for x in input("Enter the string : ").split(" ")]
