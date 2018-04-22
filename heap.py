@@ -21,13 +21,3 @@ def main():
 	print(heapq.nsmallest(3, heap))
 
 	print(heapq.nlargest(3, heap))
-
-
-
-
-
-
-
-
-
-

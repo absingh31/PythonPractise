@@ -18,8 +18,8 @@ def anticlock_ninety(mat, r, c):
     for i in range(int((r+1)/2)):
         mat[i][j], mat[r-1-j][j] = mat[r-1-j][j], mat[i][j]
 
-
-def print_mat(mat, r, c):
+d
+ef print_mat(mat, r, c):
     for i in range(r):
         for j in range(c):
             print(mat[i][j], end = ' ')
